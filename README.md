@@ -1,2 +1,2 @@
 # TesAR
-Testing AR Apps with Unity and Vuforia
+Make AR apps using Unity and Vuforia for academic purpose
